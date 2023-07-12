@@ -1,5 +1,13 @@
-$color: blue;
-
+$color: rgb(34, 205, 34);
+$fontFamily: Helvetica, sans-serif;
+$back: orange;
 h1 {
     color: $color;
+    font-family: $fontFamily;
+    
 }
+
+div {
+    background-color: $back;
+}
+
